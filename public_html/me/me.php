@@ -10,6 +10,6 @@
 		<p>I'm from Seattle</p>
 		<p>In my free time I like to play Tennis and Game on the PC</p>
 		<p>Some of the games I've been playing recently are below</p>
-		<img src="public_html/images/witcher.jpg" alt="witcher">
+		<img src="C:\Users\Francisco\Desktop\Bootcamp\git\aboutme\public_html\me\witcher.jpg" alt="witcher">
 	</body>
 </html>
