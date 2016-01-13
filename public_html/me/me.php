@@ -4,6 +4,7 @@
 		<meta charset="utf-8"/>
 		<title>Francisco Garcia</title>
 		<body bgcolor="#d3d3d3">
+		</body>
 	</head>
 	<body>
 		<h1>Me</h1>
