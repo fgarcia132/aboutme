@@ -15,8 +15,8 @@
 		<img src="http://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg?t=1450694670"
 		<img src="http://cdn.akamai.steamstatic.com/steam/apps/107410/header.jpg?t=1450888194"
 		<div>
-			<img src="http://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1452221296"
-			<img src="http://cdn.akamai.steamstatic.com/steam/apps/244210/header.jpg?t=1450200427"
+			<img src="http://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1452221296"</a>
+			<img src="http://cdn.akamai.steamstatic.com/steam/apps/244210/header.jpg?t=1450200427"</a>
 				  </div>
 
 	</body>
