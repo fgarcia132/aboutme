@@ -4,6 +4,7 @@
 		<meta charset="utf-8"/>
 		<title>Francisco Garcia</title>
 		<body bgcolor="#00ffff">
+		<link href='https://fonts.googleapis.com/css?family=Chango' rel='stylesheet' type='text/css'>
 		</body>
 	</head>
 	<body>
