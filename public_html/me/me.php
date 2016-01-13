@@ -12,6 +12,6 @@
 
 		<p>In my free time I like to play Tennis and Game on the PC<br>
 			Some of the games I've been playing recently are below</p>
-		<img src="public_html/images/witcher.jpg" alt="witcher"></a>
+		<img src="C:\Users\Francisco\Desktop\Bootcamp\git\aboutme\public_html\images\witcher.jpg" alt="witcher"></a>
 	</body>
 </html>
