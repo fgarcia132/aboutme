@@ -21,6 +21,6 @@
 			<img src="http://cdn.akamai.steamstatic.com/steam/apps/244210/header.jpg?t=1450200427"</a>
 				  </div>
 		<br/>
-
+		<p>Thanks for looking!</p>
 	</body>
 </html>
