@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8"/>
 		<title>Francisco Garcia</title>
-		<body bgcolor="#d3d3d3">
+		<body bgcolor="#00ffff">
 		</body>
 	</head>
 	<body>
