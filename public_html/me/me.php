@@ -9,10 +9,9 @@
 		<p>My name is Francisco but I also go by Cisco.</p>
 		<p>I'm from Seattle<br/>
 		but specifically Issaquah</p>
-		<div></div>
-		<div></div>
-		<p>In my free time I like to play Tennis and Game on the PC</p>
-		<p>Some of the games I've been playing recently are below</p>
+
+		<p>In my free time I like to play Tennis and Game on the PC<br>
+			Some of the games I've been playing recently are below</p>
 		<img src="C:\Users\Francisco\Desktop\Bootcamp\git\aboutme\public_html\images\witcher.jpg" alt="witcher"></a>
 	</body>
 </html>
