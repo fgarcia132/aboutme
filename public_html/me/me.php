@@ -14,5 +14,8 @@
 			Some of the games I've been playing recently are below</p>
 		<img src="http://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg?t=1450694670"</a>
 		<img src="http://cdn.akamai.steamstatic.com/steam/apps/107410/header.jpg?t=1450888194"</a>
+		<div>
+			<img src="http://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1452221296"</a>
+				  </div>
 	</body>
 </html>
