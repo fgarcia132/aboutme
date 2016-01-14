@@ -1,28 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="utf-8"/>
+		<meta charset="utf-8">
 		<title>Francisco Garcia</title>
-		<body bgcolor="#00ffff">
-		<link href='https://fonts.googleapis.com/css?family=Chango' rel='stylesheet' type='text/css'>
-		</body>
+		<link href='https://fonts.googleapis.com/css?family=Monofett' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+		<link href=' http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
-		<h1>Me</h1>
-		<p>My name is Francisco but I also go by Cisco.</p>
-		<p>I'm from Seattle<br/>
-		but specifically Issaquah/Sammamish</p>
+		<div class="information">
+			<center>
+			<h1>Me</h1>
+			<main>
+				<p>My name is Francisco Garcia but I also go by Cisco</p>
+				<br>
+				<p>In my spare time I play tennis as well as game on the PC</p>
+				<br>
+				<p>Some of the Games I've played recently are below</p>
+				<br>
+				<img src="http://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg?t=1450694670" alt="witcher">
+				<img src="http://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1452221296" alt="csgo">
+				<br>
+				<img src="http://cdn.akamai.steamstatic.com/steam/apps/244210/header.jpg?t=1450200427" alt="acorsa">
+				<img src="http://cdn.akamai.steamstatic.com/steam/apps/419270/header.jpg?t=1450454086" alt="elited">
+				<p>Thanks for looking!</p>
+				<center>
 
-		<p>In my free time I like to play Tennis and Game on the PC<br>
-			Here are some of the games I've been playing recently</p>
-		<br/>
-		<img src="http://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg?t=1450694670"</a>
-		<img src="http://cdn.akamai.steamstatic.com/steam/apps/107410/header.jpg?t=1450888194"</a>
-		<div>
-			<img src="http://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1452221296"</a>
-			<img src="http://cdn.akamai.steamstatic.com/steam/apps/244210/header.jpg?t=1450200427"</a>
-				  </div>
-		<br/>
-		<p>Thanks for looking!</p>
-	</body>
-</html>
+
+
