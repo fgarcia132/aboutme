@@ -13,7 +13,9 @@
 			<h1>Me</h1>
 			<p>My name is Francisco but I also go by Cisco.</p>
 			<p>I'm from Seattle<br/>
-			but specifically Issaquah/Sammamish</p>
+			but specifically Issaquah/Sammamish<br/>
+			I've been in Albuquerque for 7 years
+			</p>
 
 			<p>In my free time I like to play Tennis and Game on the PC<br>
 			Here are some of the games I've been playing recently</p>
